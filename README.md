@@ -1,2 +1,2 @@
 # Extracting Data from Bangla Handwritten forms using Computer Vision and Optical Character Recognition
- Extracting Data from Bangla Handwritten forms using Computer Vision and Optical Character Recognition
+ This project aims to automate the process of extracting data from handwritten Bangla forms using Computer Vision and Optical Character Recognition (OCR) techniques. The system employs a Convolutional Neural Network (CNN) model for character recognition, integrated with a Django backend for handling server-side operations. On the frontend, the application utilizes Python, React, and React Native for user interfaces across web and mobile platforms.
